@@ -15,10 +15,4 @@ https://docs.microsoft.com/en-us/windows/nodejs/setup-on-windows
 
 Si les gustaria que haga un video de como usar correctamene NVM me pueden escribir a jimmyhd_19@hotmail.com.
 
-# Pasos a seguir
 
-Primero deben crearse una cuenta en google y kuego dirigirse a la consola de Firebase, ahi tienen que crear su proyecto y se les brindara ciertas claves para que lo incorporen en su proyecto.
-
-Una vez creada, ps mira el video xd Si te gusta el video dale like, suscribete y comparte, de esa manera me estas ayudando a generar más contenido, gracias.
-
-https://youtu.be/sgmkJs2nCSU
