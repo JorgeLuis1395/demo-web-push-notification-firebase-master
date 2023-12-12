@@ -4,15 +4,8 @@ Estoy usando solola librería que proporciona Firebase .
 
 https://www.npmjs.com/package/firebase
 
-# Recomendaciones
-Si tienes problemas al instalar una versión determinada de Firebase y ves el error "node-pre-gyp find pyton" ejecuta el siguiente comando en una consola en modo administrador:
 
-npm install -global --production windows-build-tools
 
-Si el problema persiste es muy probable que sea por la versión de NodeJS que tienes, un truco para poder realizar la descarga e instalación es usar NVM, nvm es un administrador de versiones de Node JS, si tienes NodeJS ya instalado se recomienda desinstalar y eliminar todo los archivos y carpetas respecto a esa instalación, una vez realizado se procede a realizar la instalación de NVM, para mayor información les dejo el link (en mi caso uso Windows):
 
-https://docs.microsoft.com/en-us/windows/nodejs/setup-on-windows
-
-Si les gustaria que haga un video de como usar correctamene NVM me pueden escribir a jimmyhd_19@hotmail.com.
 
 
